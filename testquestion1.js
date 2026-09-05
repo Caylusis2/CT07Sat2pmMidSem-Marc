@@ -4,8 +4,11 @@ function setup(){
 }
 
 function draw(){
-ball = new Sprite(mouse.x, mouse.y, 7);
-ball.color = random
-mouse.presses(ball)
-
+if(mouse.pressing()){
+fill(random(255),random(255),random(255));
+ball = new Sprite(mouse.x,mouse.y,10) 
+Sprite(300,y,d);
 }
+}
+
+
