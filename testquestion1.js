@@ -3,5 +3,5 @@ function setup(){
     background(0);
 }
 
-new Sprite(circle)
+new Sprite(circle);
 mouse.presses(new Sprite);
