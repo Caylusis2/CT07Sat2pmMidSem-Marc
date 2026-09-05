@@ -28,5 +28,5 @@ function draw(){
         ball.collider = 'dynamic';
     }
         ground = new Sprite(mouse.x, mouse.y, 400);
-    ground.collider = 'static';
+        ground.collider = 'static';
 }
