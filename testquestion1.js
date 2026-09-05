@@ -5,4 +5,4 @@ function setup(){
 
 mouse.presses();
 
-new Sp
+new Sprite()
