@@ -1,8 +1,11 @@
-
+let ball;
+let ground;
 function setup(){
     createCanvas(600, 400);
     background(0);
     world.gravity.y =10;
+        ground = new Sprite(mouse.x, mouse.y, 400);
+    ground.collider = 'static';
 }
 
 function draw(){
