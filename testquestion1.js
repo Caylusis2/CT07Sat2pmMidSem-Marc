@@ -3,6 +3,6 @@ function setup(){
     background(0);
 }
 
-mouse.presses(new Sprite);
+mouse.presses();
 
 gravity 
