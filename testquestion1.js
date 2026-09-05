@@ -3,8 +3,11 @@ function setup(){
     background(0);
 }
 
-circle =
+function draw(){
+circle = 
+
 
 mouse.presses();
 
 new Sprite()
+}
