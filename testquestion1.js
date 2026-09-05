@@ -4,7 +4,7 @@ function setup(){
 }
 
 function draw(){
-circle = (300, 400, 10);
+ball = new Sprite(mouse.x, mouse.y, 7);
 fill(100,200,225);
 nostroke();
 
