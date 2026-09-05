@@ -4,4 +4,4 @@ function setup(){
 }
 
 new Sprite(circle)
-mouse.Presses(new Sprite);
+mouse.presses(new Sprite);
