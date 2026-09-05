@@ -7,6 +7,4 @@ function draw(){
 circle = (300, 400, 10);
 
 
-mouse.presses();
-
 }
