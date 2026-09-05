@@ -1,6 +1,6 @@
 function setup(){
     createCanvas(600, 400);
-    background(255);
+    background(0);
 }
 
 new Sprite(circle)
