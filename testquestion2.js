@@ -1,7 +1,7 @@
 
 function setup(){
     createCanvas(600, 400);
-    background(100);
+    background(200);
     world.gravity.y =10;
 }
 
