@@ -26,7 +26,8 @@ function draw(){
         fill(random(255),random(255),random(255));
         ball = new Sprite(mouse.x,mouse.y,10) ;
         ball.collider = 'dynamic';
-        ground = new Sprite(mouse.x, mouse.y, 10)
-        ground.collider = 'static';
+        
     }
+     ground = new Sprite(mouse.x, mouse.y, 10)
+        ground.collider = 'static';
 }
