@@ -6,6 +6,6 @@ function setup(){
 function draw(){
 ball = new Sprite(mouse.x, mouse.y, 7);
 ball.color = random
-
+mouse.presses(ball)
 
 }
