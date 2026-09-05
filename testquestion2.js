@@ -14,7 +14,7 @@ function draw(){
         fill(random(255),random(255),random(255));
         ball = new Sprite(mouse.x,mouse.y,10);
         ball.collider = 'dynamic';
-        ball.bounic
+        ball.bounciness = 0.5;
     }
 
 }
