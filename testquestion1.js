@@ -5,7 +5,7 @@ function setup(){
 
 function draw(){
 ball = new Sprite(mouse.x, mouse.y, 7);
-fill(100,200,225);
+ball.color = "random"
 nostroke();
 
 }
