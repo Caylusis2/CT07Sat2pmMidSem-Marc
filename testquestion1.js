@@ -5,4 +5,3 @@ function setup(){
 
 mouse.presses();
 
-gravity 
