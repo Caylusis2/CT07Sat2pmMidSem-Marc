@@ -3,5 +3,5 @@ function setup(){
     background(220);
 }
 
-new Sprite = circle(300, 200, 10);
+new Sprite(circle)
 mousePressed(new Sprite);
