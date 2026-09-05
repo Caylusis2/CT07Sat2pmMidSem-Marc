@@ -4,7 +4,7 @@ function setup(){
 }
 
 function draw(){
-circle = 
+circle = (300, 400, 10)
 
 
 mouse.presses();
