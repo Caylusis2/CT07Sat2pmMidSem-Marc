@@ -5,3 +5,5 @@ function setup(){
 
 new Sprite();
 mouse.presses(new Sprite);
+
+gravity 
