@@ -5,6 +5,6 @@ function setup(){
 
 function draw(){
 circle = (300, 400, 10);
-fill()
+fill(0,0,22225)
 
 }
